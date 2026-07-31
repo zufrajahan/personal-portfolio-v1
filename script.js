@@ -1,4 +1,3 @@
-
 alert('welcome to my portfolio')
 
 function changemode() {
@@ -9,4 +8,3 @@ function changemode() {
         
     }
 }
-
